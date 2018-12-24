@@ -31,3 +31,6 @@
 [submodule "AtlServer"]
 	path = AtlServer
 	url = https://github.com/LiveMirror/AtlServer.git
+[submodule "skia"]
+	path = skia
+	url = https://github.com/google/skia.git
