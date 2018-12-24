@@ -1,0 +1,33 @@
+[submodule "rapidjson"]
+	path = rapidjson
+	url = https://github.com/Tencent/rapidjson/
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/abseil/googletest.git
+[submodule "poco"]
+	path = poco
+	url = https://github.com/pocoproject/poco.git
+[submodule "stlport"]
+	path = stlport
+	url = https://git.code.sf.net/p/stlport/code
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/openssl/openssl.git
+[submodule "wtl"]
+	path = wtl
+	url = https://git.code.sf.net/p/wtl/git
+[submodule "loki"]
+	path = loki
+	url = https://github.com/LiveMirror/loki.git
+[submodule "folly"]
+	path = folly
+	url = https://github.com/facebook/folly.git
+[submodule "win32/DXSDK"]
+	path = win32/DXSDK
+	url = https://github.com/LiveMirror/DXSDK.git
+[submodule "sgi"]
+	path = sgi
+	url = https://github.com/LiveMirror/SGI.git
+[submodule "AtlServer"]
+	path = AtlServer
+	url = https://github.com/LiveMirror/AtlServer.git
