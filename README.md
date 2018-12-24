@@ -9,4 +9,4 @@ A list of general dependencies for develop projects. These dependencies are requ
 
 # Guide
  1. Download [boost_1_66_0](https://sourceforge.net/projects/boost/files/boost-binaries/1.66.0/boost_1_66_0-bin-msvc-all-32-64.7z/download), and unpack to path of boost/boost_1_66_0.
- 2. Executive git_update_master.sh.
+ 2. Executive VirtualIDE/tools/git_update.sh.
